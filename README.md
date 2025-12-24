@@ -1,73 +1,44 @@
-📚 İçerik Özeti
-🔹 AutoML Nedir?
+# 🚀 AutoML Learning Hub
 
-Model seçimini, hiperparametre optimizasyonunu, veri hazırlama süreçlerini ve değerlendirme metriklerini otomatikleştiren sistemlerdir.
+Bu repository, **AutoML (Automated Machine Learning)** kavramını teorik ve pratik yönleriyle öğrenmek isteyenler için hazırlanmıştır.  
+Amaç; model seçimi, hiperparametre optimizasyonu, özellik mühendisliği ve ensemble süreçlerinin **nasıl otomatikleştirildiğini** gerçek örnekler üzerinden göstermektir.
 
-🔹 Kapsanan Konular
+---
 
-Feature Engineering Automation
+## 📚 İçerik Özeti
 
-Hyperparameter Optimization (Bayesian, Grid, Random Search)
+### 🔹 AutoML Nedir?
+AutoML, makine öğrenmesi sürecinin büyük bir kısmını otomatikleştiren sistemlerdir.  
+Bu sistemler aşağıdaki adımları insan müdahalesini en aza indirerek gerçekleştirir:
 
-Neural Architecture Search
+- Model seçimi
+- Hiperparametre optimizasyonu
+- Feature engineering
+- Model değerlendirme
+- Ensemble oluşturma
 
-Model Selection & Ranking
+---
 
-Ensemble otomasyonu
+### 🔹 Kapsanan Konular
 
-AutoML Framework Karşılaştırmaları
+- ⚙️ **Feature Engineering Automation**
+- 🔍 **Hyperparameter Optimization**
+  - Grid Search  
+  - Random Search  
+  - Bayesian Optimization
+- 🧠 **Neural Architecture Search (NAS)**
+- 🏆 **Model Selection & Ranking**
+- 🤝 **Ensemble Otomasyonu**
+- 📊 **AutoML Framework Karşılaştırmaları**
 
-🧰 Kullanılan AutoML Araçları
-Araç	Açıklama
-Auto-Sklearn	Bayesian optimizasyon + meta-learning tabanlı
-PyCaret	Hızlı prototipleme ve pipeline otomasyonu
-TPOT	Genetik programlama ile model seçimi
-H2O AutoML	Çok güçlü bir ensemble tabanlı framework
-FLAML	Lightweight, hızlı ve ekonomik arama
-📁 Örnek Notebooks
+---
 
-notebooks/01-introduction-to-automl.ipynb
+## 🧰 Kullanılan AutoML Araçları
 
-notebooks/02-auto-sklearn-example.ipynb
-
-notebooks/03-pycaret-classification.ipynb
-
-notebooks/04-tpot-genetic-algorithm.ipynb
-
-notebooks/05-h2o-automl-regression.ipynb
-
-📈 Mini Projeler
-
-AutoML ile Kalp Hastalığı Tahmini (Classification)
-
-H2O AutoML ile Ev Fiyatı Tahmini (Regression)
-
-TPOT ile En İyi Pipeline Keşfi
-
-PyCaret ile Makine Öğrenimi Pipeline Analizi
-
-🛠️ Kurulum Gereksinimleri
-
-Python 3.10+
-
-Jupyter Notebook
-
-Numpy, Pandas, Scikit-Learn
-
-PyCaret
-
-Auto-sklearn
-
-TPOT
-
-H2O
-
-Matplotlib, Seaborn
-
-🤝 Katkı
-
-Pull request gönderebilir, issue açabilir veya yeni ders notları ekleyebilirsiniz!
-
-📜 Lisans
-
-MIT License
+| Araç | Açıklama |
+|-----|---------|
+| **Auto-Sklearn** | Bayesian optimizasyon + meta-learning tabanlı |
+| **PyCaret** | Hızlı prototipleme ve uçtan uca pipeline otomasyonu |
+| **TPOT** | Genetik programlama ile en iyi pipeline keşfi |
+| **H2O AutoML** | Güçlü ensemble ve dağıtık öğrenme altyapısı |
+| **FLAML** | Lightweight, hızlı ve düşük maliyetli arama |
