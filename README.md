@@ -1,4 +1,4 @@
-# 🚀 AutoML Learning Hub
+# 🚀 AutoML Learning 
 
 Bu repository, **AutoML (Automated Machine Learning)** kavramını teorik ve pratik yönleriyle öğrenmek isteyenler için hazırlanmıştır.  
 Amaç; model seçimi, hiperparametre optimizasyonu, özellik mühendisliği ve ensemble süreçlerinin **nasıl otomatikleştirildiğini** gerçek örnekler üzerinden göstermektir.
